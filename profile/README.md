@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Ganti dengan logo organisasi kamu -->
-<img src="https://via.placeholder.com/150" alt="Logo" width="120" />
+<img src="https://drive.google.com/file/d/1PDm0mOmRZ-nMkivh-2eG8dPWeULJJuMR/view?usp=sharing" alt="Logo" width="120" />
 
 # Apotek Dwi Farma
 
