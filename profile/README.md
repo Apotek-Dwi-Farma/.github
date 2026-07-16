@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Ganti dengan logo organisasi kamu -->
-<img src="https://drive.google.com/file/d/1PDm0mOmRZ-nMkivh-2eG8dPWeULJJuMR/view?usp=sharing" alt="Logo" width="120" />
-
-# Apotek Dwi Farma
+<img src="./LOGO%20HORIZONTAL%20WARNA.png" alt="Dwi Farma Logo" width="480" />
 
 **Sistem manajemen apotek modern — cepat, rapi, dan mudah digunakan.**
 
