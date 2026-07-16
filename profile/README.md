@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./LOGO%20HORIZONTAL%20WARNA.png" alt="Dwi Farma Logo" width="480" />
+<img src="./logo-dwifarma-github.jpg" alt="Dwi Farma Logo" width="480" />
 
 **Sistem manajemen apotek modern — cepat, rapi, dan mudah digunakan.**
 
