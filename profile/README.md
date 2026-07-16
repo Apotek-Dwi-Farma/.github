@@ -38,4 +38,4 @@ Dibangun dengan stack modern:
 
 ## 📫 Kontak
 
-Punya pertanyaan atau ingin kolaborasi? Hubungi kami melalui [dwifarma.com](cv.dwifarma@gmail.com).
+Punya pertanyaan atau ingin kolaborasi? Hubungi kami melalui email cv.dwifarma@gmail.com
